@@ -10,6 +10,11 @@
 </p>
 
 <p align="center">
+  <a href="./README.md">🇨🇳 中文</a> •
+  <a href="./README_EN.md">🇺🇸 English</a>
+</p>
+
+<p align="center">
   <a href="#-特性">特性</a> •
   <a href="#-技能列表">技能列表</a> •
   <a href="#-安装指南">安装</a> •
