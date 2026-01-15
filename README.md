@@ -1,171 +1,220 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/🚀-Super%20Agent%20Skills-blueviolet?style=for-the-badge" alt="Super Agent Skills"/>
-</p>
+<div align="center">
 
-<h1 align="center">🧠 Super Agent Skills</h1>
+<!-- 动态打字效果标题 -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=🧠+Super+Agent+Skills;AI+编程助手专业技能库;Make+AI+Smarter" alt="Typing SVG" />
 
-<p align="center">
-  <strong>为 AI 编程助手打造的专业技能库</strong><br>
-  <em>让你的 AI 助手更智能、更专业、更高效</em>
-</p>
+<br/>
 
-<p align="center">
-  <a href="./README.md">🇨🇳 中文</a> •
-  <a href="./README_EN.md">🇺🇸 English</a>
-</p>
+<!-- 科技风格徽章 -->
+<img src="https://img.shields.io/badge/🚀_Version-2.0-00D4FF?style=for-the-badge&labelColor=0D1117" alt="Version"/>
+<img src="https://img.shields.io/badge/📦_Skills-25+-6C63FF?style=for-the-badge&labelColor=0D1117" alt="Skills"/>
+<img src="https://img.shields.io/badge/⚡_Status-Active-00FF88?style=for-the-badge&labelColor=0D1117" alt="Status"/>
 
-<p align="center">
-  <a href="#-特性">特性</a> •
-  <a href="#-技能列表">技能列表</a> •
-  <a href="#-安装指南">安装</a> •
-  <a href="#-使用方法">使用</a> •
-  <a href="#-贡献">贡献</a>
-</p>
+<br/><br/>
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/1837620622/Super-Agent-Skills?style=social" alt="Stars"/>
-  <img src="https://img.shields.io/github/forks/1837620622/Super-Agent-Skills?style=social" alt="Forks"/>
-  <img src="https://img.shields.io/github/license/1837620622/Super-Agent-Skills" alt="License"/>
-  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"/>
-</p>
+<!-- 语言切换 -->
+<a href="./README.md"><img src="https://img.shields.io/badge/🇨🇳_中文-000000?style=flat-square&logo=markdown" alt="Chinese"/></a>
+&nbsp;&nbsp;
+<a href="./README_EN.md"><img src="https://img.shields.io/badge/🇺🇸_English-000000?style=flat-square&logo=markdown" alt="English"/></a>
+
+<br/><br/>
+
+<!-- GitHub 统计 -->
+<a href="https://github.com/1837620622/Super-Agent-Skills/stargazers">
+  <img src="https://img.shields.io/github/stars/1837620622/Super-Agent-Skills?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=6C63FF" alt="Stars"/>
+</a>
+<a href="https://github.com/1837620622/Super-Agent-Skills/network/members">
+  <img src="https://img.shields.io/github/forks/1837620622/Super-Agent-Skills?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=00D4FF" alt="Forks"/>
+</a>
+<a href="https://github.com/1837620622/Super-Agent-Skills/issues">
+  <img src="https://img.shields.io/github/issues/1837620622/Super-Agent-Skills?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=00FF88" alt="Issues"/>
+</a>
+
+<br/><br/>
+
+<!-- 分隔线 -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line"/>
+
+</div>
+
+## 🌟 项目简介
+
+> **Super Agent Skills** 是一个为 AI 编程助手量身打造的专业技能库，让你的 AI 助手在特定领域拥有**专家级**的知识和能力。
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   🤖 AI Assistant  +  📚 Super Skills  =  💪 超级助手      │
+│                                                             │
+│   ✓ 更精准的代码建议    ✓ 更专业的技术方案                 │
+│   ✓ 更完整的代码示例    ✓ 更规范的最佳实践                 │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+</div>
 
 ---
 
-## ✨ 特性
+## ⚡ 核心特性
 
-- 🎯 **专业深度** - 每个技能都基于官方文档和最佳实践精心编写
-- 🔄 **持续更新** - 紧跟最新技术动态，定期更新内容
-- 🌍 **中文友好** - 全中文注释和说明，降低学习门槛
-- 🛠️ **即插即用** - 简单配置即可在主流 AI IDE 中使用
-- 📚 **代码示例** - 丰富的可运行代码示例
+<table>
+<tr>
+<td width="50%">
+
+### 🎯 专业深度
+每个技能都基于**官方文档**和**最佳实践**精心编写，覆盖完整的 API 和使用场景
+
+### 🔄 持续更新
+紧跟技术前沿，基于 **Context7** 实时查询最新文档，确保内容时效性
+
+</td>
+<td width="50%">
+
+### 🛠️ 即插即用
+支持 **Windsurf**、**Cursor**、**Copilot** 等主流 AI IDE，简单配置即可使用
+
+### 📚 丰富示例
+每个技能都包含**可运行的代码示例**，即学即用
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📦 技能列表
+## 📦 技能矩阵
+
+<div align="center">
 
 ### ☁️ 云平台与部署
 
-| 技能 | 描述 | 关键功能 |
-|------|------|----------|
-| **Cloudflare** | Cloudflare Workers 边缘计算平台 | Workers、D1、R2、KV、AI、Vectorize、Workflows、Hyperdrive |
-| **Vercel** | 现代前端部署平台 | Serverless、Edge Functions、KV、Postgres、Blob、AI SDK |
-| **Railway** | 简化的云部署平台 | 容器部署、数据库、私有网络、多区域扩展 |
+</div>
+
+| 技能 | 描述 | 核心功能 | 状态 |
+|:---:|:---|:---|:---:|
+| <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" /> | 边缘计算平台 | Workers · D1 · R2 · KV · AI · Vectorize · Workflows · Hyperdrive | ✅ |
+| <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" /> | 现代前端部署 | Serverless · Edge · KV · Postgres · Blob · AI SDK | ✅ |
+| <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" /> | 简化云部署 | 容器 · 数据库 · 私有网络 · 多区域扩展 | ✅ |
+
+<div align="center">
 
 ### 📄 文档处理
 
-| 技能 | 描述 | 关键功能 |
-|------|------|----------|
-| **docx** | Word 文档处理 | python-docx、表格、样式、页眉页脚、修订追踪 |
-| **xlsx** | Excel 电子表格处理 | openpyxl、公式、图表、条件格式、数据验证 |
+</div>
+
+| 技能 | 描述 | 核心功能 | 状态 |
+|:---:|:---|:---|:---:|
+| <img src="https://img.shields.io/badge/DOCX-2B579A?style=flat-square&logo=microsoftword&logoColor=white" /> | Word 文档 | python-docx · 表格 · 样式 · 页眉页脚 · 修订追踪 | ✅ |
+| <img src="https://img.shields.io/badge/XLSX-217346?style=flat-square&logo=microsoftexcel&logoColor=white" /> | Excel 表格 | openpyxl · 公式 · 图表 · 条件格式 · 数据验证 | ✅ |
+
+<div align="center">
 
 ### 🔬 科学计算
 
-| 技能 | 描述 | 关键功能 |
-|------|------|----------|
-| **scientific-simulation** | 科学仿真与数值计算 | scipy solve_ivp、ODE求解、事件检测、刚性方程 |
+</div>
+
+| 技能 | 描述 | 核心功能 | 状态 |
+|:---:|:---|:---|:---:|
+| <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" /> | 科学仿真 | solve_ivp · ODE求解 · 事件检测 · 刚性方程 | ✅ |
+
+<div align="center">
 
 ### 🎨 更多技能
 
-| 技能 | 描述 |
-|------|------|
-| **analytics-metrics** | 数据可视化与分析仪表盘 |
-| **mongodb** | MongoDB 数据库操作 |
-| **langchain** | LLM 应用与 Agent 开发 |
-| **figma** | Figma API 与设计系统集成 |
-| **owasp-security** | OWASP 安全编码实践 |
-| **web-accessibility** | WCAG 无障碍开发指南 |
-| **mermaid-diagrams** | Mermaid 图表生成 |
-| **mobile-responsiveness** | 响应式移动端开发 |
-| **ux-design-systems** | 设计系统与组件库 |
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white" />
+<img src="https://img.shields.io/badge/Mermaid-FF3670?style=flat-square&logo=mermaid&logoColor=white" />
+<img src="https://img.shields.io/badge/A11Y-0170FE?style=flat-square&logo=accessibility&logoColor=white" />
+
+</div>
 
 ---
 
-## 🚀 安装指南
+## 🚀 快速开始
 
-### 方式一：直接下载
+<div align="center">
 
 ```bash
 git clone https://github.com/1837620622/Super-Agent-Skills.git
 ```
 
-### 方式二：手动复制
-
-下载仓库中的 `skills` 文件夹，复制到对应 IDE 的配置目录。
+</div>
 
 ---
 
-## 💻 使用方法
+## 💻 IDE 配置指南
 
-### Windsurf (Codeium)
+<details>
+<summary><b>🌊 Windsurf (Codeium)</b></summary>
 
-1. 打开 Windsurf 配置目录：
-   ```
-   # macOS
-   ~/.codeium/windsurf/skills/
-   
-   # Windows
-   %USERPROFILE%\.codeium\windsurf\skills\
-   
-   # Linux
-   ~/.codeium/windsurf/skills/
-   ```
+```bash
+# 配置目录
+# macOS:   ~/.codeium/windsurf/skills/
+# Windows: %USERPROFILE%\.codeium\windsurf\skills/
+# Linux:   ~/.codeium/windsurf/skills/
 
-2. 将下载的技能文件夹复制到该目录
+# 复制技能文件夹到上述目录，重启 Windsurf 即可
+```
 
-3. 重启 Windsurf，技能将自动加载
+</details>
 
-### Cursor
+<details>
+<summary><b>🖱️ Cursor</b></summary>
 
-1. 打开 Cursor 设置 (`Cmd/Ctrl + ,`)
+1. 打开设置 `Cmd/Ctrl + ,`
+2. 搜索 `Rules for AI`
+3. 添加技能内容或创建 `.cursorrules` 文件
 
-2. 搜索 `Rules for AI` 或进入 **Features > Rules for AI**
+</details>
 
-3. 在规则区域添加技能内容，或引用技能文件：
-   ```
-   # 方式一：直接粘贴技能内容
-   
-   # 方式二：创建 .cursorrules 文件
-   将技能内容复制到项目根目录的 .cursorrules 文件中
-   ```
+<details>
+<summary><b>🤖 GitHub Copilot</b></summary>
 
-4. 技能将在对话中自动生效
+创建 `.github/copilot-instructions.md` 文件，将技能内容复制进去
 
-### GitHub Copilot
+</details>
 
-1. 在项目根目录创建 `.github/copilot-instructions.md` 文件
+<details>
+<summary><b>📝 其他 IDE</b></summary>
 
-2. 将需要的技能内容复制到该文件
+- **Cody**: 设置中添加自定义指令
+- **Tabnine**: Team Settings 配置
+- **CodeWhisperer**: 注释引导
 
-3. Copilot 将根据指令提供更精准的建议
-
-### 其他 AI IDE
-
-大多数 AI 编程助手都支持自定义提示词或系统指令：
-
-- **Cody (Sourcegraph)**: 在设置中添加自定义指令
-- **Tabnine**: 通过 Team Settings 配置
-- **Amazon CodeWhisperer**: 使用注释引导
+</details>
 
 ---
 
-## 📖 技能详情
+## 🎬 代码示例
 
-### Cloudflare 技能亮点
+<details>
+<summary><b>☁️ Cloudflare Workers + AI</b></summary>
 
 ```typescript
-// Workers + D1 + AI 的完美结合
 export default {
   async fetch(request: Request, env: Env): Promise<Response> {
     const { results } = await env.DB.prepare('SELECT * FROM users').all();
     const response = await env.AI.run('@cf/meta/llama-3.1-8b-instruct', {
-      messages: [{ role: 'user', content: '分析这些用户数据' }],
+      messages: [{ role: 'user', content: '分析用户数据' }],
     });
     return Response.json({ users: results, analysis: response });
   },
 };
 ```
 
-### Vercel AI SDK 流式响应
+</details>
+
+<details>
+<summary><b>⚡ Vercel AI SDK 流式响应</b></summary>
 
 ```typescript
 import { openai } from '@ai-sdk/openai';
@@ -173,15 +222,15 @@ import { streamText } from 'ai';
 
 export async function POST(req: Request) {
   const { messages } = await req.json();
-  const result = streamText({
-    model: openai('gpt-4o'),
-    messages,
-  });
+  const result = streamText({ model: openai('gpt-4o'), messages });
   return result.toDataStreamResponse();
 }
 ```
 
-### Railway 多区域部署
+</details>
+
+<details>
+<summary><b>🌍 Railway 多区域部署</b></summary>
 
 ```json
 {
@@ -195,42 +244,57 @@ export async function POST(req: Request) {
 }
 ```
 
+</details>
+
 ---
 
-## 🤝 贡献
+## 🤝 贡献指南
+
+<div align="center">
+
+```
+Fork → Branch → Commit → Push → PR
+```
+
+</div>
 
 欢迎提交 PR 来改进或添加新技能！
-
-1. Fork 本仓库
-2. 创建特性分支 (`git checkout -b feature/AmazingSkill`)
-3. 提交更改 (`git commit -m 'Add some AmazingSkill'`)
-4. 推送到分支 (`git push origin feature/AmazingSkill`)
-5. 开启 Pull Request
 
 ---
 
 ## 📬 联系作者
 
-- **微信**: 1837620622（传康 kk）
-- **邮箱**: 2040168455@qq.com
-- **闲鱼/B站**: 万能程序员
+<div align="center">
+
+| 平台 | 联系方式 |
+|:---:|:---:|
+| <img src="https://img.shields.io/badge/WeChat-07C160?style=flat-square&logo=wechat&logoColor=white" /> | `1837620622`（传康 kk） |
+| <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /> | `2040168455@qq.com` |
+| <img src="https://img.shields.io/badge/Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white" /> | 万能程序员 |
+
+</div>
 
 ---
+
+<div align="center">
 
 ## ⭐ 支持项目
 
-如果这个项目对你有帮助，请给它一个 ⭐ Star！
+**如果这个项目对你有帮助，请给它一个 Star！**
 
 你的支持是我持续更新的动力 💪
 
-<p align="center">
-  <a href="https://github.com/1837620622/Super-Agent-Skills">
-    <img src="https://img.shields.io/badge/⭐-Star%20This%20Repo-yellow?style=for-the-badge" alt="Star"/>
-  </a>
-</p>
+<br/>
 
----
+<a href="https://github.com/1837620622/Super-Agent-Skills">
+  <img src="https://img.shields.io/badge/⭐_Star_This_Repo-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Star"/>
+</a>
 
-<p align="center">
-  <sub>Made with ❤️ by 传康 kk</sub>
-</p>
+<br/><br/>
+
+<!-- 底部装饰 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=100&section=footer" />
+
+<sub>Made with ❤️ by 传康 kk</sub>
+
+</div>
