@@ -112,6 +112,16 @@
 
 <div align="center">
 
+### 💼 接单与沟通
+
+</div>
+
+| 技能 | 描述 | 核心功能 | 状态 |
+|:---:|:---|:---|:---:|
+| <img src="https://img.shields.io/badge/Client_Reply-07C160?style=flat-square&logo=wechat&logoColor=white" /> | 接单回复客户 | 吃透整单 · 不主动报价 · 包装交付分档 · 让客户先出预算 · 去 AI 腔口语 | ✅ |
+
+<div align="center">
+
 ### 🔬 科学计算
 
 </div>

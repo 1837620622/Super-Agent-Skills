@@ -114,6 +114,16 @@ Every skill includes **runnable code examples**, ready to use
 
 <div align="center">
 
+### 💼 Freelance & Client Communication
+
+</div>
+
+| Skill | Description | Core Features | Status |
+|:---:|:---|:---|:---:|
+| <img src="https://img.shields.io/badge/Client_Reply-07C160?style=flat-square&logo=wechat&logoColor=white" /> | Reply to freelance clients (Chinese) | Read the whole order · No unprompted quote · Tiered packaging · Let the client name a budget · Human tone, no AI phrasing | ✅ |
+
+<div align="center">
+
 ### 🔬 Scientific Computing
 
 </div>
